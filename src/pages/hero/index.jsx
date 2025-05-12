@@ -2,7 +2,7 @@ import { ArrowRight } from "lucide-react";
 
 export function Hero() {
   return (
-    <section className="bg-gradient-to-b from-[#ffd966] to-white hero-pattern py-16 md:py-24">
+    <section className=" hero-pattern py-16 md:py-24">
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 animate-fade-in">
