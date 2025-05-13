@@ -28,21 +28,19 @@ export function AboutMe() {
               
               <div className="space-y-4 text-gray-700">
                 <p>
-                  Passei no Enem em 2022, depois de duas tentativas que quase me fizeram desistir. Mas na terceira vez, deu certo!
-                  Conquistei minha vaga no IFAL - Campus Arapiraca, estudando sozinha em casa, com o que eu tinha: meu celular, coragem e muita disciplina.
+                 Passei no Enem em 2022, depois de duas tentativas que quase me fizeram desistir. Não foi fácil. Cada reprovação parecia um soco no peito, e cada comentário de dúvida era mais um peso nas costas. Mas mesmo assim, eu continuei. Na terceira vez, deu certo. Conquistei minha vaga no IFAL – Campus Arapiraca, estudando sozinha, em casa, com o que eu tinha: meu celular, coragem e fé.
                 </p>
+
+                <p>Sim, foi com o celular mesmo. Enquanto muita gente acredita que precisa de tudo para começar, eu descobri que o pouco, quando usado com determinação, vira muito. Não precisei de cursinho caro, nem de estrutura perfeita. Eu tinha sede de aprender, disciplina para persistir e fé em Deus para não desanimar. Foi Ele o meu alicerce em cada noite de choro, em cada madrugada de estudo, em cada silêncio cheio de incerteza.</p>
                 
                 <p>
-                  Eu morava em uma cidade distante e precisei me mudar para seguir esse sonho. Foi um período doce, mas também muito desafiador — tanto pra mim quanto para os meus pais.
-                  Enquanto alguns me apoiavam, outros… duvidavam.
-                  Diziam que eu ia "endoidar" de tanto estudar.
-                  Mas o que ninguém via era que eu só queria uma chance de mudar minha história.
+                  Morava em uma cidade distante e precisei me mudar para seguir esse sonho. Foi um período doce, mas também desafiador — para mim, que deixei tudo para trás, e para os meus pais, que fizeram o possível e o impossível para me apoiar. Enquanto alguns me incentivavam, outros… duvidavam. Diziam que eu ia “endoidar” de tanto estudar. Mas o que ninguém via era que eu não estava enlouquecendo — eu estava lutando. Tudo o que eu queria era uma chance de mudar minha história. E mudei.
                 </p>
                 
                 <p className="font-medium">E mudei.</p>
                 
                 <p>
-                  No 5º período da faculdade, com apenas 3 alunas, abri meu curso de redação. Hoje, ensino um time de estudantes com o coração cheio de gratidão e a certeza de que vale a pena não desistir.
+                 Hoje estou no 5º período da faculdade, e mesmo com poucos recursos, consegui abrir meu próprio curso de redação com apenas três alunas. Hoje, esse curso é uma das maiores fontes de realização da minha vida. Ensino um time de estudantes com o coração cheio de gratidão, amor e propósito. Porque eu sei o que é sonhar e quase desistir. E sei também o quanto vale a pena continuar.
                 </p>
                 
                 <div className="p-4 bg-[#edb966]/30 rounded-lg border-l-4 border-[#edb966] mt-6">
