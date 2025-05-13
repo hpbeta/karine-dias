@@ -40,7 +40,7 @@ export function AboutMe() {
                 <p className="font-medium">E mudei.</p>
                 
                 <p>
-                 Hoje estou no 5º período da faculdade, e mesmo com poucos recursos, consegui abrir meu próprio curso de redação com apenas três alunas. Hoje, esse curso é uma das maiores fontes de realização da minha vida. Ensino um time de estudantes com o coração cheio de gratidão, amor e propósito. Porque eu sei o que é sonhar e quase desistir. E sei também o quanto vale a pena continuar.
+                 Hoje estou no 7º período da faculdade, e mesmo com poucos recursos, consegui abrir meu próprio curso de redação com apenas três alunas. Hoje, esse curso é uma das maiores fontes de realização da minha vida. Ensino um time de estudantes com o coração cheio de gratidão, amor e propósito. Porque eu sei o que é sonhar e quase desistir. E sei também o quanto vale a pena continuar.
                 </p>
                 
                 <div className="p-4 bg-[#edb966]/30 rounded-lg border-l-4 border-[#edb966] mt-6">
