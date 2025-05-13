@@ -14,7 +14,7 @@ export function Depoiments() {
     },
     {
       name: "Raquele",
-      text: "Com o curso de Redação, aprendi a desenvolver argumentos mais consistentes e organizar melhor a minha redação. Além disso, a relação de nós alunas com a profª é de amigas mesmo, o que me deu mais confiança de fazer perguntas e tirar todas as dúvidas possíveis, é isso  facilitou muito minha aprendizagem",
+      text: "Com o curso de Redação, aprendi a desenvolver argumentos mais consistentes e organizar melhor a minha redação. Além disso, a relação de nós alunas com a profª é de amigas mesmo, o que me deu mais confiança de fazer perguntas e tirar todas as dúvidas possíveis, e isso  facilitou muito minha aprendizagem",
       course: "Aulas de Redação para Concurso"
     }
   ];
@@ -25,7 +25,7 @@ export function Depoiments() {
         <div className="max-w-3xl mx-auto text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-serif font-bold text-purple-800 mb-2">Depoimentos</h2>
           <div className="w-20 h-1 bg-[#edb966] mx-auto mb-6"></div>
-          <p className="text-gray-600">O que dizem os alunos que já transformaram sua redação</p>
+          <p className="text-gray-600">Confira o que algumas das minhas alunas compartilharam sobre a evolução delas na redação, e muitos outros continuam escrevendo sua própria transformação!</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
