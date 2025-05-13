@@ -19,7 +19,7 @@ export function Servicing() {
       description:
         "Correções personalizadas de redações com devolutiva completa: análise detalhada dos cinco critérios do ENEM, comentários sobre argumentação, coesão, repertório e proposta de intervenção.",
       features: [
-        "Análise dos 5 critérios",
+        "Análise das 5 competências",
         "Comentários detalhados",
         "Acompanhamento individual",
         "Evolução real da escrita",
