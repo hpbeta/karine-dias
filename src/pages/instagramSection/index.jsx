@@ -9,7 +9,7 @@ export  function InstagramSection() {
   const posts = [
     { src: image1, alt: "Post 1", link: "https://www.instagram.com/p/DJcxtxGJR3e/?img_index=1" },
     { src: image2, alt: "Post 2", link: "https://www.instagram.com/p/DJQM6LrJdfq/?img_index=1" },
-    { src: image3, alt: "Post 3", link: "https://www.instagram.com/p/DJVOurspLCe/" },
+    { src: image3, alt: "Post 3", link: "https://www.instagram.com/p/DExV33vJHsA/" },
     { src: image4, alt: "Post 4", link: "https://www.instagram.com/p/DIryI5XJJVO/?img_index=1" },
     { src: image5, alt: "Post 5", link: "https://www.instagram.com/p/DHcDwAKJ5JM/?img_index=1" },
     { src: image6, alt: "Post 6", link: "https://www.instagram.com/p/DHWziMSJpRF/?img_index=1" },
